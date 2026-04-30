@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="etw_session_hijack/etw_session_hijack.vcxproj" />
+  <Project Path="is_admin/is_admin.vcxproj" />
+  <Project Path="shell_execute_ex/shell_execute_ex.vcxproj" />
+</Solution>
